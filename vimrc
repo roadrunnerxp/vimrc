@@ -76,3 +76,5 @@ set backspace=indent,eol,start
 set showmatch " 括弧の対応関係を一瞬表示する
 source $VIMRUNTIME/macros/matchit.vim " Vimの「%」を拡張する
 
+" end
+
